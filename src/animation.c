@@ -797,18 +797,18 @@ const char * frame11[] = {
 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"};
 
 const char ** frames[] = {
-	frame0,
-	frame1,
-	frame2,
-	frame3,
-	frame4,
-	frame5,
-	frame6,
-	frame7,
-	frame8,
-	frame9,
-	frame10,
 	frame11,
+	frame10,
+	frame9,
+	frame8,
+	frame7,
+	frame6,
+	frame5,
+	frame4,
+	frame3,
+	frame2,
+	frame1,
+	frame0,
 	NULL
 };
 
